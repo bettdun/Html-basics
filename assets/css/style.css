@@ -1,0 +1,54 @@
+ul{
+    margin: 0px;
+    padding: 0;
+    list-style: none;
+    
+}
+li{
+    float: right;
+}
+li{
+    padding: 10px;
+    font-family: aakar;
+    font-size: 10px;
+    color: red;
+    text-decoration: none;
+    display: block;
+}
+li{
+    color: chartreuse;
+    margin: 20px;
+}
+h1{
+    color: red;
+    margin: 20px;
+}
+.FRUIT{
+    border: 3px;
+    text-align: center;
+    color: red;
+    padding: 20px;
+
+}
+.CARS{
+    border: 3px;
+    text-align: center;
+    color: red;
+    padding: 20px;
+}
+.FOOTBALL{
+    border: 3px;
+    text-align: center;
+    color: red;
+    padding: 20px;
+}
+#\ school{
+    border: 3px;
+    text-align: center;
+    color: red;
+    padding: 20px;
+}
+body{
+    background: black;
+
+}

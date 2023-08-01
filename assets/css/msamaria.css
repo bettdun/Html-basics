@@ -1,0 +1,55 @@
+h1{
+    color:red;
+    text-align: center;
+}
+h2{
+    color: chartreuse;
+    text-align: center;
+}
+ul{
+    color: aqua;
+    text-align: center;
+}
+ol{
+    color: red;
+    text-align: center;
+
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+label{
+    color: red;
+    text-align: center;
+}
+input{
+    color: chartreuse;
+    text-align: center;
+
+}ul{
+    margin: o;
+    padding: 0;
+    background-color: red;
+ }
+ li{
+     float: left;
+ }
+ li{
+     padding: 20px;
+     color: blue;
+     text-decoration: none;
+     display: block;
+ }
+ h2{
+     color: chartreuse;
+     text-align: center;
+ }
+ container h1{ text-align: center;
+
+ }
+ form group1{
+     margin-bottom: 20px;
+ }
+
+
